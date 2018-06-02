@@ -11,7 +11,7 @@ body {
 
 .intro {
   top: 0;
-  background: #e0ebe8;
+  background: #e0ebf9
   min-height: 55vh;
   padding-top: 45vh;
   /*   line-height: 100vh; */
@@ -28,7 +28,7 @@ nav ul {
   text-align: right;
   position: fixed;
   width: 100%;
-  background-color: #e0ebe8;
+  background-color: #e0ebf9;
 }
 
 nav ul li {
@@ -86,7 +86,7 @@ nav ul li a:hover {
   width: 200px;
   height: 30px;
   margin: 20px auto 90px;
-  background: #e0ebe8;
+  background: #e0ebf9;
   color: #008080;
   font-weight: bold;
   font-size: 1em;
