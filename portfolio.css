@@ -4,10 +4,14 @@ body {
   text-align: center;
 }
 
-* {
-  margin: 0;
-  padding: 0;
+p {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 5em;
+  margin-right: 5em;
 }
+
 #profile{
     border-radius:50%;
 }
@@ -141,11 +145,6 @@ nav ul li a:hover {
 .contact-details:hover {
   background: #E4F1FE;
   color: green;
-}
-
-p {
-  margin-left: 50;
-  margin-right: 50;
 }
 
 footer {
