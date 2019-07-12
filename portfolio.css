@@ -9,7 +9,7 @@ body {
 }
 .intro {
   top: 0;
-  background: #e0ebf9
+  background: #e0ebf9;
   min-height: 55vh;
   padding-top: 15vh;
   /*   line-height: 100vh; */
