@@ -68,8 +68,8 @@ nav ul li a:hover {
   display: block;
   margin-top: 1em;
   margin-bottom: 1em;
-  margin-left: 100em;
-  margin-right: 100em;
+  margin-left: 10em;
+  margin-right: 10em;
 }
 
 .project-pic {
