@@ -4,14 +4,6 @@ body {
   text-align: center;
 }
 
-p {
-  display: block;
-  margin-top: 1em;
-  margin-bottom: 1em;
-  margin-left: 5em;
-  margin-right: 5em;
-}
-
 #profile{
     border-radius:50%;
 }
@@ -70,6 +62,14 @@ nav ul li a:hover {
   width: 280px;
   margin: 40px 100px;
   /*   background: url("https://res.cloudinary.com/dck40m3wf/image/upload/v1455459914/Portfolio/fancy-floral-pattern-384.jpg") repeat; */
+}
+
+.bio {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 5em;
+  margin-right: 5em;
 }
 
 .project-pic {
