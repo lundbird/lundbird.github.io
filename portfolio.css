@@ -144,8 +144,8 @@ nav ul li a:hover {
 }
 
 p {
-  passing: 20px;
-  margin: 20px;
+  margin-left: 50;
+  margin-right: 50;
 }
 
 footer {
